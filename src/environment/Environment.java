@@ -1,6 +1,6 @@
 package environment;
 
 public class Environment {
-	public Action availableActions;
+	public Interface availableInterfaces;
 	public Stimulus availableStimuli;
 }
